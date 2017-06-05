@@ -9,8 +9,6 @@ public class Human extends Animal implements Thinkable{
     static String to_jp = "人間";
 
     // 変数
-    String name;
-    int age;
     String hobby;
 
     Human(String a_cName, int a_iAge, String a_cHobby)
